@@ -6,3 +6,5 @@ I make telegram bots of all kinds: For orders, userbots (not very well versed in
 >My Project: [@mbutskh_bot](https://t.me/mbutskh_bot)
 
 >My Channel: [@mbutskch](https://t.me/mbutskch)
+
+_14.06.2024_. I started learning JS
