@@ -8,7 +8,7 @@ I make telegram bots of all kinds: For orders, userbots, as well as game bots wi
 >My Channel: [@mbutskch](https://t.me/mbutskch)
 
 _14.06.2024_. I started learning JS
-
+![Tg channel](tgmd.mbutsk.xyz?channel-id=@mbutskch)
 ![mbutsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutsk&hide=prs,issues,contribs&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbutsk&theme=transparent&layout=donut-vertical&hide=Procfile)
