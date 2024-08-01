@@ -9,7 +9,7 @@ I make telegram bots of all kinds: For orders, userbots, as well as game bots wi
 
 _14.06.2024_. I started learning JS
 
-![Tg channel](https://tgmd.mbutsk.xyz?channel-id=@mbutskch)
+[![Tg channel](https://tgmd.mbutsk.xyz?channel-id=@mbutskch)](tg.mbutsk.xyz)
 
 ![mbutsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutsk&hide=prs,issues,contribs&show_icons=true&theme=transparent)
 
