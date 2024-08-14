@@ -5,11 +5,9 @@ I make telegram bots of all kinds: For orders, userbots, as well as game bots wi
 
 >My Project: [@mbutskh_bot](https://t.me/mbutskh_bot)
 
->My Channel: [@mbutskch](https://t.me/mbutskch)
+>My Telegram Channel: [![Tg channel](https://tgmd.mbutsk.xyz?channel-id=@mbutskch)](https://tg.mbutsk.xyz)
 
 _14.06.2024_. I started learning JS
-
-[![Tg channel](https://tgmd.mbutsk.xyz?channel-id=@mbutskch)](https://tg.mbutsk.xyz)
 
 ![mbutsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutsk&hide=prs,issues,contribs&show_icons=true&theme=transparent)
 
