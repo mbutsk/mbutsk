@@ -5,7 +5,6 @@ I make telegram bots of all kinds: For orders, userbots, as well as game bots wi
 
 >My Project: [@mbutskh_bot](https://t.me/mbutskh_bot)
 
->My Telegram Channel:
 [![Tg channel](https://tgmd.mbutsk.xyz?channel-id=@mbutskch)](https://tg.mbutsk.xyz)
 
 _14.06.2024_. I started learning JS
