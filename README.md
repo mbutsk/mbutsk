@@ -1,16 +1,17 @@
-# Hi!
-I'm a Python programmer.
-I make telegram bots of all kinds: For orders, userbots, as well as game bots with a lot of features. Just on game bots I won 2 times in hackathons.
-> My Portfolio: [@mbutsk_bot](https://t.me/mbutsk_bot)
+# Hi 🫡
 
->My Project: [@mbutskh_bot](https://t.me/mbutskh_bot)
+I'm mbutsk - a Belarussian coder that make apps, utilities, Python libraries, Telegram bots and more
 
-[![Tg channel](https://tgmd.mbutsk.xyz?channel-id=@mbutskch)](https://tgch.mbutsk.xyz)
+Currently I mostly code in Python.
 
-_14.06.2024_. I started learning JS
+## My socials
 
-![mbutsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutsk&hide=prs,issues,contribs&show_icons=true&theme=transparent)
+### Contact me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbutsk&theme=transparent&layout=donut-vertical&hide=Procfile)
+- [Email](mailto:mbutsk@icloud.com)
+- [Telegram](t.me/@HomyakHomyak)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mbutsk&layout=compact&theme=transparent)
+### You can also find me at
+
+- [Steam](https://steamcommunity.com/id/mbutsk/)
+- [Kwork](https://kwork.ru/user/mbutsk?ref=15722588) (freelance marketplace)
