@@ -10,6 +10,7 @@ Currently I mostly code in Python.
 
 - [Email](mailto:mbutsk@icloud.com)
 - [Telegram](t.me/@HomyakHomyak)
+- [Discord](discord.com/users/558214919405830151)
 
 ### You can also find me at
 
