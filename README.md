@@ -1,6 +1,6 @@
 # Hi 🫡
 
-I'm mbutsk - a Belarussian coder that make apps, utilities, Python libraries, Telegram bots and more
+I'm mbutsk - a Belarusian coder that make apps, utilities, Python libraries, Telegram bots and more
 
 Currently I mostly code in Python.
 
