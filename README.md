@@ -1,18 +1,25 @@
 # Hi 🫡
 
-I'm mbutsk - a Belarusian coder that make apps, utilities, Python libraries, Telegram bots and more
+I'm just python (mostly) coder from Belarus
 
-Currently I mostly code in Python.
+I make:
+
+* Apps
+* Utilities
+* Python libraries
+* Telegram bots
+* More
 
 ## My socials
 
 ### Contact me
 
-- [Email](mailto:mbutsk@icloud.com)
-- [Telegram](t.me/@HomyakHomyak)
-- [Discord](discord.com/users/558214919405830151)
+* [Email](mailto:mbutsk@icloud.com)
+* [Telegram](t.me/@HomyakHomyak)
+* [Discord](discord.com/users/558214919405830151)
+* [DonationAlerts](https://www.donationalerts.com/r/mbutsk) (Donation)
 
 ### You can also find me at
 
-- [Steam](https://steamcommunity.com/id/mbutsk/)
-- [Kwork](https://kwork.ru/user/mbutsk?ref=15722588) (freelance marketplace)
+* [Steam](https://steamcommunity.com/id/mbutsk/)
+* [Kwork](https://kwork.ru/user/mbutsk?ref=15722588) (freelance marketplace)
