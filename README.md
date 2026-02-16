@@ -1,6 +1,6 @@
 # Hi 🫡
 
-I'm just python (mostly) coder from Belarus
+I'm python (mostly) coder from Belarus
 
 I make:
 
@@ -23,3 +23,5 @@ I make:
 
 * [Steam](https://steamcommunity.com/id/mbutsk/)
 * [Kwork](https://kwork.ru/user/mbutsk?ref=15722588) (freelance marketplace)
+* [GitHub (???)](github.com/mbutsk)
+* [My Shitpost Repost Post Telegram Channel (mostly russian)](t.me/gladtract)
