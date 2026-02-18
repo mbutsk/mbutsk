@@ -15,7 +15,7 @@ I make:
 ### Contact me
 
 * [Email](mailto:mbutsk@icloud.com)
-* [Telegram](t.me/@HomyakHomyak)
+* [Telegram](t.me/@butskm)
 * [Discord](discord.com/users/558214919405830151)
 * [DonationAlerts](https://www.donationalerts.com/r/mbutsk) (Donation)
 
