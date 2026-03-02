@@ -24,4 +24,4 @@ I make:
 * [Steam](https://steamcommunity.com/id/mbutsk/)
 * [Kwork](https://kwork.ru/user/mbutsk?ref=15722588) (freelance marketplace)
 * [GitHub (???)](github.com/mbutsk)
-* [My Shitpost Repost Post Telegram Channel (mostly russian)](t.me/gladtract)
+* [My Shitpost Repost Post Telegram Channel (mostly in russian)](t.me/gladtract)
