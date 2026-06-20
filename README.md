@@ -15,9 +15,9 @@ I make:
 ### Contact me
 
 * [Email](mailto:mbutsk@icloud.com)
-* [Telegram](t.me/@butskm)
+* [Telegram](https://t.me/@butskm)
 
 ### You can also find me at
 
 * [Steam](https://steamcommunity.com/id/mbutsk/)
-* [GitHub (???)](github.com/mbutsk)
+* [GitHub (???)](https://github.com/mbutsk)
