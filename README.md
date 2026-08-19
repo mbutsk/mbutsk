@@ -1,14 +1,6 @@
-# Hi 🫡
+# Hi
 
 I'm python (mostly) coder from Belarus
-
-I make:
-
-* Apps
-* Utilities
-* Python libraries
-* Telegram bots
-* More
 
 ## My socials
 
@@ -21,3 +13,8 @@ I make:
 
 * [Steam](https://steamcommunity.com/id/mbutsk/)
 * [GitHub (???)](https://github.com/mbutsk)
+* [Genius](https://genius.com/mbutsk)
+* [My Telegram channel with thoughts and photos](https://t.me/@cudounaje)
+(mostly in belarusian)
+* [My Telegram channel with shitposts and reposts](https://t.me/@gladtract)
+(mostly in russian)
